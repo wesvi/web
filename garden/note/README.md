@@ -1,13 +1,5 @@
 ---
-public:: true  
 title: "Wesvi' Digital Garden"
-alias::   
-file:: readme.md  
-date:: 2022-04-28 18:18:38  
-author:: Zhangli  
-tags::  
-type:: Page  
-description:: "Wesvi' Digital Garden首页"
 ---
 
 - ## 前言
