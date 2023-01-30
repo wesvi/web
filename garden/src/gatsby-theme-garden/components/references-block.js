@@ -7,7 +7,7 @@ const ReferencesBlock = ({ references }) => {
   const footer = (
     <React.Fragment>
       <p>
-        如果对内容感兴趣，可以联系我
+      ©Copyright <a href="/">Wesvi</a> 2023
       </p>
     </React.Fragment>
   );
