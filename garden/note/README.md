@@ -2,6 +2,8 @@
 title: "Wesvi' Digital Garden"
 ---
 
+# Wesvi' Digital Garden
+
 - ## 前言
 	- 这里是一个公开的笔记本，准备以数字花园[Digital Garden](2022051106.md)的形式组织，其中知识型笔记使用卡片盒笔记系统[Zettelkasten](2022050901.md)，以常青笔记的标准要求质量，内容组织采用P.A.R.A的模式
 - ## 为什么使用数字花园
