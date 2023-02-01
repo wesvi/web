@@ -1,6 +1,6 @@
 # web
 
-[wesvi](https://www.wesvi.com)
+[www.wesvi.com](https://www.wesvi.com)
 
 [doc.wesvi.com](https://doc.wesvi.com)
 
