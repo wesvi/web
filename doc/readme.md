@@ -1,5 +1,5 @@
 ---
-alias:: Wesvi' Digital Garden 
+alias:: Wesvi' Digital Garden  
 file:: readme.md  
 ---
 
