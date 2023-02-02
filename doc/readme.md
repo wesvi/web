@@ -1,8 +1,3 @@
----
-alias:: Wesvi' Digital Garden  
-file:: readme.md  
----
-
 # Wesvi' Digital Garden
 
 ## 前言
