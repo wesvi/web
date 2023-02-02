@@ -1,4 +1,3 @@
-- [Wesvi' Digital Garden](readme.md)
 - [Blog](blog.md)
 - [Note](note.md)
 - [About](about.md)
