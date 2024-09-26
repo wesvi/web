@@ -9,3 +9,4 @@ CNAME
 /zettle/.env.sample
 /zettle/static/
 /zettle/src/
+package-lock.json
