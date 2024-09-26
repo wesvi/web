@@ -4,3 +4,8 @@ pusa.html
 wesvi.html
 CNAME
 /doc/lib/
+/zettle/package.json
+/zettle/gatsby-config.js
+/zettle/.env.sample
+/zettle/static/
+/zettle/src/
