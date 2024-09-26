@@ -2,3 +2,14 @@
 gene.html
 pusa.html
 wesvi.html
+<<<<<<< HEAD
+=======
+CNAME
+/doc/lib/
+/zettle/package.json
+/zettle/gatsby-config.js
+/zettle/.env.sample
+/zettle/static/
+/zettle/src/
+package-lock.json
+>>>>>>> e55c3d7b2f786053260b7b7ed870b95ea1bcf61b
