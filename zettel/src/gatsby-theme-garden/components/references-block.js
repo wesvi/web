@@ -7,7 +7,8 @@ const ReferencesBlock = ({ references }) => {
   const footer = (
     <React.Fragment>
       <p>
-      ©Copyright <a href="/">Wesvi</a> 2023
+        If you think this note resonated, be it positive or negative,{" "}
+        <a href="https://twitter.com/mathieudutour">ping me</a> on Twitter.
       </p>
     </React.Fragment>
   );

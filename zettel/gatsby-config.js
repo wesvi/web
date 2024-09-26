@@ -7,15 +7,15 @@ require("dotenv").config({
 module.exports = {
   pathPrefix: `/gatsby-digital-garden`,
   siteMetadata: {
-    title: `Wesvi' Digital Garden`,
-    description: `Wesvi' Digital Garden use Roam Research as a data source for a Gatsby site`,
+    title: `Digital Garden`,
+    description: `Example of using Roam Research as a data source for a Gatsby site`,
   },
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        rootNote: `/README`,
-        contentPath: `${__dirname}/zettel`,
+        rootNote: "/About-these-notes",
+        contentPath: `${__dirname}/notes`,
         roamUrl: process.env.ROAM_URL,
         roamEmail: process.env.ROAM_EMAIL,
         roamPassword: process.env.ROAM_PASSWORD,
