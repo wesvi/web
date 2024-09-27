@@ -12,7 +12,7 @@ tags:: Emacs,Zettel
 ## Question
 ## Extension
 ## Links
-- [Emacs安装配置](2019022402.md)
+- [Emacs安装配置](Emacs安装配置.md)
 
 ## Reference
 - [Master Emacs in 21 Days](http://book.emacs-china.org/)

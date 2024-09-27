@@ -20,8 +20,8 @@ tags:: Zettel
 ## Question
 ## Extension
 ## Links
-- [Logseq的Markdown模板](2022042901.md)
-- [Markdown论文笔记框架](2019012802.md)
+- [Logseq的Markdown模板](Logseq的Markdown模板.md)
+- [Markdown论文笔记框架](Markdown论文笔记框架.md)
 
 ## Reference
 - [Markdown官方教程](https://markdown.com.cn/)

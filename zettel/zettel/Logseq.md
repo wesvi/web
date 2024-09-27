@@ -19,7 +19,7 @@ tags:: Zettel
 ## Question
 ## Extension
 ## Links
-- [Logseq的Markdown模板](2022042901.md)
+- [Logseq的Markdown模板](Logseq的Markdown模板.md)
 
 ## Reference
 - [Logseq github](https://github.com/logseq/logseq)

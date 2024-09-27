@@ -37,7 +37,7 @@ win7环境
 
 ## Links to this note
 
-- [Emacs](2019022401.md)
+- [Emacs](Emacs.md)
 
 ## Links from this note
 

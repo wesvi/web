@@ -11,8 +11,8 @@ tags:: Markdown,Logseq,Zettel
 ## Question
 ## Extension
 ## Links
-- [Markdown](2022042902.md)
-- [Logseq](2022050101.md)
+- [Markdown](Markdown.md)
+- [Logseq](Logseq.md)
 
 ## Reference
   
