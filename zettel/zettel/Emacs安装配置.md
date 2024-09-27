@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Emacs安装配置
-alias:: 
-tags:: Emacs,Zettel
+public: true
+title: Emacs安装配置
+alias: 
+tags: Emacs,Zettel
 ---
 
 # Emacs安装配置

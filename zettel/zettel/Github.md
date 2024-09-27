@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Github
-alias:: 
-tags:: Zettel
+public: true
+title: Github
+alias: 
+tags: Zettel
 ---
 
 # Github

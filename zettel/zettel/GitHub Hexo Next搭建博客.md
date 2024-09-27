@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: GitHub Hexo Next搭建博客
-alias:: 
-tags:: Hexo,Github,Next,Zettel
+public: true
+title: GitHub Hexo Next搭建博客
+alias: 
+tags: Hexo,Github,Next,Zettel
 ---
 
 # GitHub Hexo Next搭建博客

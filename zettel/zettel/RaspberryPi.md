@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: RaspberryPi
-alias:: 
-tags:: Zettel
+public: true
+title: RaspberryPi
+alias: 
+tags: Zettel
 ---
 
 # RaspberryPi

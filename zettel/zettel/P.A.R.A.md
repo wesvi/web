@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: P.A.R.A
-alias:: 
-tags:: Zettel
+public: true
+title: P.A.R.A
+alias: 
+tags: Zettel
 ---
 
 # P.A.R.A

@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: 卡片盒笔记系统、数字花园、常青笔记、P.A.R.A有机融合
-alias:: 
-tags:: Zettelkasten,Digital Garden,Evergreen note,P.A.R.A,Zettel
+public: true
+title: 卡片盒笔记系统、数字花园、常青笔记、P.A.R.A有机融合
+alias: 
+tags: Zettelkasten,Digital Garden,Evergreen note,P.A.R.A,Zettel
 ---
 
 # 卡片盒笔记系统、数字花园、常青笔记、P.A.R.A有机结合

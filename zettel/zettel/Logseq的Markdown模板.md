@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Logseq的Markdown模板
-alias:: 
-tags:: Markdown,Logseq,Zettel
+public: true
+title: Logseq的Markdown模板
+alias: 
+tags: Markdown,Logseq,Zettel
 ---
 
 # Logseq的Markdown模板

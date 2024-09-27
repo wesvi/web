@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Git和GitHub基础使用
-alias:: 
-tags:: Git,Github,Zettel
+public: true
+title: Git和GitHub基础使用
+alias: 
+tags: Git,Github,Zettel
 ---
 
 # Git和GitHub基础使用

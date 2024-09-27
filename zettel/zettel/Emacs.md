@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Emacs
-alias:: 
-tags:: Emacs,Zettel
+public: true
+title: Emacs
+alias: 
+tags: Emacs,Zettel
 ---
 
 # Emacs

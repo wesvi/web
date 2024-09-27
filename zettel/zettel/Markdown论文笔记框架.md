@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Markdown论文笔记框架
-alias:: 
-tags:: Markdown,Doc
+public: true
+title: Markdown论文笔记框架
+alias: 
+tags: Markdown,Doc
 ---
 
 # Markdown论文笔记框架

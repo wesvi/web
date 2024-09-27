@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Markdown
-alias:: 
-tags:: Zettel
+public: true
+title: Markdown
+alias: 
+tags: Zettel
 ---
 
 # Markdown

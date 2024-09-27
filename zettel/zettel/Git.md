@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Git
-alias:: 
-tags:: Zettel
+public: true
+title: Git
+alias: 
+tags: Zettel
 ---
 
 # Git

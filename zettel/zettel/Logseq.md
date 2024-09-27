@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Logseq
-alias:: 
-tags:: Zettel
+public: true
+title: Logseq
+alias: 
+tags: Zettel
 ---
 
 # Logseq

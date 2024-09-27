@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Hello World
-alias:: 
-tags:: Hexo,Github,Zettel
+public: true
+title: Hello World
+alias: 
+tags: Hexo,Github,Zettel
 ---
 
 # Hello World

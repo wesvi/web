@@ -1,8 +1,8 @@
 ---
-public:: true
-title:: Hugo+Netlify部署博客
-alias:: 
-tags:: Hugo,Github,Zettel
+public: true
+title: Hugo+Netlify部署博客
+alias: 
+tags: Hugo,Github,Zettel
 ---
 
 # Hugo
