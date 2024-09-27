@@ -15,7 +15,7 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         rootNote: "/README",
-        contentPath: `${__dirname}/notes`,
+        contentPath: `${__dirname}/zettel`,
         roamUrl: process.env.ROAM_URL,
         roamEmail: process.env.ROAM_EMAIL,
         roamPassword: process.env.ROAM_PASSWORD,
