@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Wesvi's Digital Garden"
 theme = "hugo-digital-garden-theme"
 themesdir = "./themes"
-copyright = "Wesvu © 2024"
+copyright = "Wesvi ©"
 
 
 [params]
