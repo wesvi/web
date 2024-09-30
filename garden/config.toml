@@ -9,7 +9,7 @@ copyright = "Wesvi ©"
 [params]
   name = "Wesvi"
   description = "Wesvi's Digital Garden."
-  initials = "WESVI"
+  initials = "W"
   googleAnalytics = ""
 
   [[params.social]]
