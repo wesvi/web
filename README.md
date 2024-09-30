@@ -6,6 +6,8 @@
 
 [zettel.wesvi.com](https://zettel.wesvi.com)
 
+[garden.wesvi.com](https://garden.wesvi.com)
+
 [chess.html](https://www.wesvi.com/chess.html)
 
 [inv.html](https://www.wesvi.com/inv.html)
@@ -29,6 +31,12 @@
 │   ├── package.json
 │   ├── CNAME
 │   └── README.md
+│
+├── garden
+│   └── zettel
+│   ├── CNAME
+│   ├── config.toml
+│   └── netlify.toml
 │
 ├── [index.html](www.wesvi.com) 
 ├── [chess.html](/chess.html)
