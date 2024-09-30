@@ -1,15 +1,15 @@
-baseURL = "https://www.example.com"
+baseURL = "https://garden.wesvi.com"
 languageCode = "en-us"
-title = "My Digital Garden"
+title = "Wesvi's Digital Garden"
 theme = "hugo-digital-garden-theme"
 themesdir = "./themes"
-copyright = "Nigalya Ponya ©"
+copyright = "Wesvu © 2024"
 
 
 [params]
-  name = "Nigalya Ponya"
-  description = "Red panda living in the eastern Himalayas."
-  initials = "NP"
+  name = "Wesvi"
+  description = "Wesvi's Digital Garden."
+  initials = "WESVI"
   googleAnalytics = ""
 
   [[params.social]]
