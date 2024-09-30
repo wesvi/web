@@ -3,8 +3,3 @@
 - [About](about.md)
 - [Documentation](documentation.md)
 - [List](list.md)
-	- [母亲与中华花艺](2019012701.md)
-	- [THE EDGE OF SHOAL](2019012801.md)
-	- [银行系与基金系QDII的比较研究](2019013001.md)
-	- [Logseq的Markdown模板](2022042901.md)
-	- [卡片盒笔记系统](2022050901.md)
