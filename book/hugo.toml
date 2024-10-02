@@ -5,16 +5,16 @@ title = 'Hugo Book'
 theme = 'hugo-book'
 
 # Book configuration
-disablePathToLower = true
-enableGitInfo = true
+# disablePathToLower = true
+# enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
-[markup]
-[markup.goldmark.renderer]
-  unsafe = true
+# [markup]
+# [markup.goldmark.renderer]
+#   unsafe = true
 
-[markup.tableOfContents]
-  startLevel = 1
+# [markup.tableOfContents]
+#   startLevel = 1
 
 # Multi-lingual mode config
 # There are different options to translate files
