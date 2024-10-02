@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us" dir="ltr">
+<html lang="en" dir="ltr">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,18 +7,20 @@
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
 <meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/categories/golang/">
-  <meta property="og:site_name" content="My New Hugo Site">
+  <meta property="og:site_name" content="Hugo Book">
   <meta property="og:title" content="Golang">
-  <meta property="og:locale" content="en_us">
+  <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
-<title>Golang | My New Hugo Site</title>
+<title>Golang | Hugo Book</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" >
 <link rel="canonical" href="http://localhost:1313/categories/golang/">
 <link rel="stylesheet" href="/book.min.d2208918717d44dd763368798f932ba074fc5ac4c6432e3b5da36b1883005c59.css" integrity="sha256-0iCJGHF9RN12M2h5j5MroHT8WsTGQy47XaNrGIMAXFk=" crossorigin="anonymous">
   <script defer src="/fuse.min.js"></script>
   <script defer src="/en.search.min.212069a57e848742299429cf9a11a7403d2a94701721f4c0762ed15f4fbeecc6.js" integrity="sha256-ISBppX6Eh0IplCnPmhGnQD0qlHAXIfTAdi7RX0&#43;&#43;7MY=" crossorigin="anonymous"></script>
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/categories/golang/index.xml" title="My New Hugo Site" />
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/categories/golang/index.xml" title="Hugo Book" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -34,7 +36,7 @@ https://github.com/alex-shpak/hugo-book
         
   <nav>
 <h2 class="book-brand">
-  <a class="flex align-center" href="/"><span>My New Hugo Site</span>
+  <a class="flex align-center" href="/"><span>Hugo Book</span>
   </a>
 </h2>
 
@@ -46,6 +48,47 @@ https://github.com/alex-shpak/hugo-book
 </div>
 <script>document.querySelector(".book-search").classList.remove("hidden")</script>
 
+
+
+  
+
+
+
+  
+    
+  
+    
+  
+
+
+
+<ul class="book-languages">
+  <li>
+    <input type="checkbox" id="languages" class="toggle" />
+    <label for="languages" class="flex justify-between">
+      <a role="button" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </label>
+
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/zh/">
+          中文
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/ru/">
+          Russian
+        </a>
+      </li>
+      
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -355,6 +398,18 @@ https://github.com/alex-shpak/hugo-book
       </a>
   </li>
   
+  <li>
+    <a href="https://github.com/wesvi/web"  target="_blank" rel="noopener">
+        Github
+      </a>
+  </li>
+  
+  <li>
+    <a href="https://themes.gohugo.io/themes/hugo-book/"  target="_blank" rel="noopener">
+        Hugo Themes
+      </a>
+  </li>
+  
 </ul>
 
 
@@ -499,13 +554,16 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-    <p><p>Hugo uses the excellent <a href="https://golang.org/">Go</a> <a href="https://golang.org/pkg/html/template/">html/template</a> library for
+    <p><p>Hugo uses the excellent 
+  <a href="https://golang.org/">Go</a> 
+  <a href="https://golang.org/pkg/html/template/">html/template</a> library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
 logic to be able to create a good static website. If you have used other
 template systems from different languages or frameworks you will find a lot of
 similarities in Go templates.</p>
-<p>This document is a brief primer on using Go templates. The <a href="https://golang.org/pkg/html/template/">Go docs</a>
+<p>This document is a brief primer on using Go templates. The 
+  <a href="https://golang.org/pkg/html/template/">Go docs</a>
 provide more details.</p>
         <a href="/posts/goisforlovers/">...</a>
       
@@ -546,10 +604,12 @@ provide more details.</p>
   Step 1. Install Hugo
   <a class="anchor" href="#step-1-install-hugo">#</a>
 </h2>
-<p>Go to <a href="https://github.com/spf13/hugo/releases">Hugo releases</a> and download the
+<p>Go to 
+  <a href="https://github.com/spf13/hugo/releases">Hugo releases</a> and download the
 appropriate version for your OS and architecture.</p>
 <p>Save it somewhere specific as we will be using it in the next step.</p>
-<p>More complete instructions are available at <a href="https://gohugo.io/getting-started/installing/">Install Hugo</a></p>
+<p>More complete instructions are available at 
+  <a href="https://gohugo.io/getting-started/installing/">Install Hugo</a></p>
 <h2 id="step-2-build-the-docs">
   Step 2. Build the Docs
   <a class="anchor" href="#step-2-build-the-docs">#</a>
