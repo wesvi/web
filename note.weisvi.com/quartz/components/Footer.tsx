@@ -24,19 +24,6 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <p></p> 
-        <ul>
-          <li>
-            <a href="#">
-            Scroll to top ↑
-            </a> 
-          </li>
-          <li>
-            <a id="random-page-button">
-            Random Page 🎲
-            </a>
-          </li>
-        </ul>
       </footer>
     )
   }
